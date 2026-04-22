@@ -15,8 +15,4 @@ public class UserModel {
         return age;
     }
 
-
-
-
-
 }
