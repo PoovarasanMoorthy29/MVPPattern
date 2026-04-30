@@ -1,6 +1,9 @@
 ### IntelliJ IDEA ###
 out/
-.idea/
+#!.idea/
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/vcs.xml
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
